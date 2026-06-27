@@ -47,7 +47,7 @@ common:
     url: https://www.linkedin.com/company/covancedrugdevelopment
   - type: PrivacyPolicy
     url: https://www.fortrea.com/privacy-policy
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.fortrea.com/terms-of-use
 maintainers:
   - FN: Kin Lane
