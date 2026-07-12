@@ -29,6 +29,8 @@ tags:
   - Pharmaceutical
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/covance-domain-security.yml
   - type: Website
     url: https://www.fortrea.com
   - type: LegacyWebsite
@@ -49,6 +51,8 @@ common:
     url: https://www.fortrea.com/privacy-policy
   - type: TermsOfService
     url: https://www.fortrea.com/terms-of-use
+  - url: https://www.fortrea.com/insights
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
