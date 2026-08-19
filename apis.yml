@@ -10,6 +10,7 @@ description: >-
   trial management, central laboratory, and bioanalytical services. No public
   API or developer portal is currently published; integrations are arranged
   through sponsor and partner agreements.
+specificationVersion: '0.23'
 accessModel:
   pricing: unknown
   onboarding: unknown
