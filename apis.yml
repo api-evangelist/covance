@@ -10,6 +10,17 @@ description: >-
   trial management, central laboratory, and bioanalytical services. No public
   API or developer portal is currently published; integrations are arranged
   through sponsor and partner agreements.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 specificationVersion: '0.23'
 accessModel:
   pricing: unknown
