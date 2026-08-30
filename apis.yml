@@ -62,6 +62,11 @@ tags_raw:
   - Pharmaceutical
 apis: []
 common:
+  - type: ParentCompany
+    url: https://apis.io/providers/labcorp/
+    name: Labcorp
+    x-relationship: acquired
+    x-evidence: "Covance was a contract research organization (CRO) acquired by Labcorp in 2015 and rebranded as Labcorp Drug Development in 2021."
   - type: DomainSecurity
     url: security/covance-domain-security.yml
   - type: Website
