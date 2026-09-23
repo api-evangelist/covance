@@ -1,7 +1,9 @@
 ---
 title: Covance – Specialized IT Services Provider
 url: https://covance.ai/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Covance" press release artificial intelligence'
 position: 3
 source: serpapi-google

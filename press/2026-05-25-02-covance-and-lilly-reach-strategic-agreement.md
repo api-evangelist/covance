@@ -1,7 +1,9 @@
 ---
 title: Covance and Lilly Reach Strategic Agreement
 url: https://www.appliedclinicaltrialsonline.com/view/covance-and-lilly-reach-strategic-agreement
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Covance" press release artificial intelligence'
 position: 2
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Covance Announces Plans to Build New Drug Development ...
 url: https://www.fiercebiotech.com/biotech/covance-announces-plans-to-build-new-drug-development-facility-prince-william-county
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Covance" press release artificial intelligence'
 position: 4
 source: serpapi-google
